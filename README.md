@@ -72,6 +72,6 @@ This project can be extended in several ways:
 If you have any suggestions or feedback, feel free to reach out:
 
 📧 anbarhabibah2@gmail.com  
-🔗 [LinkedIn – Anbar Habibah](www.linkedin.com/in/anbarhabibah)  
+🔗 [LinkedIn – Anbar Habibah]([https://linkedin.com/in/anbarhabibah/])  
 
 #Python #BeginnerProject #PythonProgramming #ConditionalLogic #LearningPython #GradeClassification #DataScienceBeginner #DataScience
