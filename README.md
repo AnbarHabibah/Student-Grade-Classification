@@ -45,12 +45,6 @@ Kategori Nilai: B (Baik)
 
 ---
 
-## Version Libraries
-- Python 3.x  
-- Jupyter Notebook
-
----
-
 ## Insight
 From this simple classification program, I learned:
 1. How to effectively handle user input in Python.
